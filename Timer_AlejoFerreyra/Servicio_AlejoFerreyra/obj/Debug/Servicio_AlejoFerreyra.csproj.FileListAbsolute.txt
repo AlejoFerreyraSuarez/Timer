@@ -1,0 +1,10 @@
+C:\Users\PC-1\source\repos\Servicio_AlejoFerreyra\Servicio_AlejoFerreyra\bin\Debug\Servicio_AlejoFerreyra.exe.config
+C:\Users\PC-1\source\repos\Servicio_AlejoFerreyra\Servicio_AlejoFerreyra\bin\Debug\Servicio_AlejoFerreyra.exe
+C:\Users\PC-1\source\repos\Servicio_AlejoFerreyra\Servicio_AlejoFerreyra\bin\Debug\Servicio_AlejoFerreyra.pdb
+C:\Users\PC-1\source\repos\Servicio_AlejoFerreyra\Servicio_AlejoFerreyra\obj\Debug\Servicio_AlejoFerreyra.csproj.AssemblyReference.cache
+C:\Users\PC-1\source\repos\Servicio_AlejoFerreyra\Servicio_AlejoFerreyra\obj\Debug\Servicio_AlejoFerreyra.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC-1\source\repos\Servicio_AlejoFerreyra\Servicio_AlejoFerreyra\obj\Debug\Servicio_AlejoFerreyra.ProjectInstaller.resources
+C:\Users\PC-1\source\repos\Servicio_AlejoFerreyra\Servicio_AlejoFerreyra\obj\Debug\Servicio_AlejoFerreyra.csproj.GenerateResource.cache
+C:\Users\PC-1\source\repos\Servicio_AlejoFerreyra\Servicio_AlejoFerreyra\obj\Debug\Servicio_AlejoFerreyra.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\source\repos\Servicio_AlejoFerreyra\Servicio_AlejoFerreyra\obj\Debug\Servicio_AlejoFerreyra.exe
+C:\Users\PC-1\source\repos\Servicio_AlejoFerreyra\Servicio_AlejoFerreyra\obj\Debug\Servicio_AlejoFerreyra.pdb
